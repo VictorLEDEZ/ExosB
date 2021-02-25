@@ -1,0 +1,26 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+  color: #096fce;
+}
+.description {
+  font-style: bold;
+}
+.instructions {
+  color: #096fce;
+  font-weight: bold;
+}
+td {
+  padding: 0;
+  margin: 0%;
+  font-size: 80px;
+  color: #096fce;
+  text-align: center;
+
+  width: 100px;
+  height: 100px;
+  border: solid 1px blue;
+  background-color: aliceblue;
+}

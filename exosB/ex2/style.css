@@ -1,0 +1,26 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+  color: #096fce;
+}
+.description {
+  font-style: bold;
+}
+
+/* responsive drawBar as width is 100% */
+#drawBar {
+  border-radius: 10px;
+  width: 100%;
+  background-color: rgb(185, 180, 180);
+}
+
+#nbr {
+  border-radius: 10px;
+  height: 30px;
+  background-color: #096fce;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}

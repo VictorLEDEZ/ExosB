@@ -1,0 +1,29 @@
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
+h1 {
+  color: #096fce;
+}
+.description {
+  font-style: bold;
+}
+
+.instructions {
+  font-size: larger;
+}
+tr {
+  height: 30px;
+  width: 30px;
+}
+td {
+  background-color: #d9d9d9;
+  text-align: center;
+  height: 30px;
+  width: 30px;
+}
+
+.coords {
+  background-color: black;
+  color: white;
+}
